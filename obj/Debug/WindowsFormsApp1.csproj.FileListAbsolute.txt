@@ -1,0 +1,13 @@
+D:\konsom\SyntacticAnalyzer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\konsom\SyntacticAnalyzer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\konsom\SyntacticAnalyzer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\konsom\SyntacticAnalyzer\WindowsFormsApp1\bin\Debug\ru\WindowsFormsApp1.resources.dll
+D:\konsom\SyntacticAnalyzer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\konsom\SyntacticAnalyzer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\konsom\SyntacticAnalyzer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\konsom\SyntacticAnalyzer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.ru.resources
+D:\konsom\SyntacticAnalyzer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\konsom\SyntacticAnalyzer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\konsom\SyntacticAnalyzer\WindowsFormsApp1\obj\Debug\ru\WindowsFormsApp1.resources.dll
+D:\konsom\SyntacticAnalyzer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\konsom\SyntacticAnalyzer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
